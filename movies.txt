@@ -5,3 +5,5 @@ spider man
 iron man
 capitan america
 deadpool
+hulk
+valera
